@@ -23,5 +23,4 @@ namespace _01_Challenge
             return _menuList;
         }
     }
-   
 }

@@ -1,0 +1,17 @@
+C:\DotNet\GoldBadgeChallenges\01_Challenge_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\DotNet\GoldBadgeChallenges\01_Challenge_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\DotNet\GoldBadgeChallenges\01_Challenge_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\DotNet\GoldBadgeChallenges\01_Challenge_Tests\bin\Debug\01_Challenge_Tests.dll
+C:\DotNet\GoldBadgeChallenges\01_Challenge_Tests\bin\Debug\01_Challenge_Tests.pdb
+C:\DotNet\GoldBadgeChallenges\01_Challenge_Tests\bin\Debug\01_Challenge.exe
+C:\DotNet\GoldBadgeChallenges\01_Challenge_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\DotNet\GoldBadgeChallenges\01_Challenge_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\DotNet\GoldBadgeChallenges\01_Challenge_Tests\bin\Debug\01_Challenge.pdb
+C:\DotNet\GoldBadgeChallenges\01_Challenge_Tests\bin\Debug\01_Challenge.exe.config
+C:\DotNet\GoldBadgeChallenges\01_Challenge_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\DotNet\GoldBadgeChallenges\01_Challenge_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\DotNet\GoldBadgeChallenges\01_Challenge_Tests\obj\Debug\01_Challenge_Tests.csprojAssemblyReference.cache
+C:\DotNet\GoldBadgeChallenges\01_Challenge_Tests\obj\Debug\01_Challenge_Tests.csproj.CoreCompileInputs.cache
+C:\DotNet\GoldBadgeChallenges\01_Challenge_Tests\obj\Debug\01_Challenge_Tests.csproj.CopyComplete
+C:\DotNet\GoldBadgeChallenges\01_Challenge_Tests\obj\Debug\01_Challenge_Tests.dll
+C:\DotNet\GoldBadgeChallenges\01_Challenge_Tests\obj\Debug\01_Challenge_Tests.pdb
