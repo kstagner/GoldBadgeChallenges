@@ -21,7 +21,7 @@ namespace _02_Challenge_Tests
             _claimsRepo.AddNewClaim(claimThree);
 
             //Act
-            int actual = _claimsRepo.GetClaimQueue().Count;
+            int actual = _claimsRepo.GetClaimsList().Count;
             int expected = 3;
 
             //Assert
@@ -42,7 +42,7 @@ namespace _02_Challenge_Tests
             _claimsRepo.AddNewClaim(claimThree);
 
             //Act
-            int actual = _claimsRepo.GetClaimQueue().Count;
+            int actual = _claimsRepo.GetClaimsList().Count;
             int expected = 3;
 
             //Assert
@@ -64,7 +64,7 @@ namespace _02_Challenge_Tests
             _claimsRepo.RemoveClaim();
 
             //Act
-            int actual = _claimsRepo.GetClaimQueue().Count;
+            int actual = _claimsRepo.GetClaimsList().Count;
             int expected = 2;
 
             //Assert

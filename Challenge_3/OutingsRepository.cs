@@ -15,25 +15,25 @@ namespace Challenge_3
             return _outings;
         }
         public void AddNewOuting(Outing newOuting)
-        {
+        { 
             _outings.Enqueue(newOuting);
         }
         public decimal CalculateCost(EventType type)
         {
-            decimal totalCost = 4000m;
+            decimal totalCost = 68200m;
             switch (type)
             {
                 case EventType.AmusementPark:
-                    totalCost += 1000m;
+                    totalCost += 25200m;
                     break;
                 case EventType.Bowling:
-                    totalCost += 1000m;
+                    totalCost += 3500m;
                     break;
                 case EventType.Concert:
-                    totalCost += 1000m;
+                    totalCost += 27500m;
                     break;
                 case EventType.Golf:
-                    totalCost += 1000m;
+                    totalCost += 12000m;
                     break;
             }
             return totalCost;

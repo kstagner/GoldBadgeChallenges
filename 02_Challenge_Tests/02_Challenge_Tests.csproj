@@ -56,7 +56,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Users\Kate Stagner\Documents\Visual Studio 2017\Challenge_2\Challenge_2\Challenge_02.csproj">
+    <ProjectReference Include="..\Challenge_2\Challenge_02.csproj">
       <Project>{E54C65A6-6085-45CB-A3FF-8C9B66364F0F}</Project>
       <Name>Challenge_02</Name>
     </ProjectReference>

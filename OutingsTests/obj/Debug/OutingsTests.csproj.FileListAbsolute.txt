@@ -1,0 +1,14 @@
+C:\DotNet\GoldBadgeChallenges\OutingsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\DotNet\GoldBadgeChallenges\OutingsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\DotNet\GoldBadgeChallenges\OutingsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\DotNet\GoldBadgeChallenges\OutingsTests\bin\Debug\OutingsTests.dll
+C:\DotNet\GoldBadgeChallenges\OutingsTests\bin\Debug\OutingsTests.pdb
+C:\DotNet\GoldBadgeChallenges\OutingsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\DotNet\GoldBadgeChallenges\OutingsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\DotNet\GoldBadgeChallenges\OutingsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\DotNet\GoldBadgeChallenges\OutingsTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\DotNet\GoldBadgeChallenges\OutingsTests\obj\Debug\OutingsTests.csprojAssemblyReference.cache
+C:\DotNet\GoldBadgeChallenges\OutingsTests\obj\Debug\OutingsTests.csproj.CoreCompileInputs.cache
+C:\DotNet\GoldBadgeChallenges\OutingsTests\obj\Debug\OutingsTests.csproj.CopyComplete
+C:\DotNet\GoldBadgeChallenges\OutingsTests\obj\Debug\OutingsTests.dll
+C:\DotNet\GoldBadgeChallenges\OutingsTests\obj\Debug\OutingsTests.pdb
